@@ -1,12 +1,18 @@
 # hello-word
-Problem:
-I usually send codes to the master to push changes himself/herself in group projects, avoiding using GitHub.
+Why:
+1. I usually send codes to the master to push changes himself in group projects
+2. Time to upload my personal projects as well
 
-Mission:
-1. Start working on GitHub as also an online resume.
-2. Familiarize myself with Git for faster update on group projects.
+How:
+1. Start working on GitHub as also an online personal resume
+2. Familiarize myself with Git for faster work on group projects
 
-Who Am I:
+What:
+1. Create and use a repository
+2. Start and manage a new branch
+3. Make changes to a file and push them to GitHub as commits
+4. Open and merge a pull request
+
 Hi readers!
 I am Albert, I like building robots, especially autonomous unmanned vehicles.
 
