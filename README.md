@@ -1,17 +1,9 @@
 # hello-word
-Why:
-1. I usually send codes to the master to push changes himself in group projects
-2. Time to upload my personal projects as well
+I usually send codes to the master to push changes himself in group projects, but it's time to upload my personal projects as well!
 
-How:
+Aim:
 1. Start working on GitHub as also an online personal resume
 2. Familiarize myself with Git for faster work on group projects
-
-What:
-1. Create and use a repository
-2. Start and manage a new branch
-3. Make changes to a file and push them to GitHub as commits
-4. Open and merge a pull request
 
 Hi readers!
 I am Albert, I like building robots, especially autonomous unmanned vehicles.
